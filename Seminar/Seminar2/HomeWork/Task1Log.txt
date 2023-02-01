@@ -1,0 +1,42 @@
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 1 и 2
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 3 и 4
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 4 и 5
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 5 и 6
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 6 и 7
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 7 и 8
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 8 и 9
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 2 и 3
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 3 и 4
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 5 и 6
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 6 и 7
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 7 и 8
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 1 и 2
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 2 и 3
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 6 и 7
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 0 и 1
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 5 и 6
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 4 и 5
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 3 и 4
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 2 и 3
+февр. 01, 2023 3:23:12 PM Seminar.Seminar2.HomeWork.task1 main
+INFO: Переставление индексов 1 и 2

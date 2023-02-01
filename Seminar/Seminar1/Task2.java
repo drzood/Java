@@ -1,4 +1,4 @@
-package Seminar.Seminar_1;
+package Seminar.Seminar1;
 
 import java.time.LocalDateTime;
 

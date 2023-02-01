@@ -4,7 +4,7 @@
 // пользователя ввести <Имя> в консоли. Получит введенную строку 
 // и выведет в консоль сообщение “Привет, <Имя
 
-package Seminar.Seminar_1;
+package Seminar.Seminar1;
 
 import java.util.Scanner;
 

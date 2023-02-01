@@ -8,7 +8,7 @@
 // Пример: 3 2 1 3 5 6
 // Вывод: 2 1 5 6 3 3
 
-package Seminar.Seminar_1;
+package Seminar.Seminar1;
 
 public class Task4 {
     public static void main(String[] args) {

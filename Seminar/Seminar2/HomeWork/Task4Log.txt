@@ -1,0 +1,16 @@
+февр. 01, 2023 3:33:36 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: a = 2
+февр. 01, 2023 3:33:37 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: Sybol: *
+февр. 01, 2023 3:33:39 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: b = 2
+февр. 01, 2023 3:33:39 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: 2 * 2 = 4
+февр. 01, 2023 3:36:12 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: a = 2
+февр. 01, 2023 3:36:14 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: Sybol: /
+февр. 01, 2023 3:36:15 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: b = 2
+февр. 01, 2023 3:36:15 PM Seminar.Seminar2.HomeWork.task4 main
+INFO: 2 / 2 = 1

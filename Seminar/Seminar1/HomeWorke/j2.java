@@ -1,4 +1,4 @@
-package Seminar.Seminar_1.HomeWorke;
+package Seminar.Seminar1.HomeWorke;
 
 public class j2 {
     public static void main(String[] args) {
