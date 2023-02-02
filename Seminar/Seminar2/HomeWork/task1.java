@@ -10,7 +10,7 @@ public class task1 {
          * результат после каждой итерации запишите в лог-файл.
          */
         Logger logger = Logger.getLogger(task1.class.getName());
-        FileHandler fh = new FileHandler("Seminar/Seminar2/HomeWork/Task1Log.txt");
+        FileHandler fh = new FileHandler("Seminar/Seminar2/HomeWork/task1Log.txt");
         logger.addHandler(fh);
 
         SimpleFormatter sFormat = new SimpleFormatter();

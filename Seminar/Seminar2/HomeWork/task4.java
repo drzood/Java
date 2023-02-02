@@ -13,7 +13,7 @@ public class task4 {
          * К калькулятору из предыдущего дз добавить логирование.
          */
         Logger log = Logger.getLogger(task4.class.getName());
-        FileHandler fh = new FileHandler("Seminar/Seminar2/HomeWork/Task4Log.txt", true);
+        FileHandler fh = new FileHandler("Seminar/Seminar2/HomeWork/task4Log.txt", true);
         log.addHandler(fh);
 
         SimpleFormatter sFormat = new SimpleFormatter();
