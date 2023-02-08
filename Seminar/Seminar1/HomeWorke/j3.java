@@ -17,22 +17,12 @@ public class j3 {
         input.close();
         int result = 0;
         switch (s){
-            case '+':
-                result = a + b;
-                break;
-            case '-':
-                result = a - b;
-                break;
-            case '*':
-                result = a + b;
-                break;
-            case '/':
-                result = a / b;
-                break;
-            default:
-                System.out.println("Операция не распознана");
+            case '+' -> result = a + b;
+            case '-' -> result = a - b;
+            case '*' -> result = a + b;
+            case '/' -> result = a / b;
+            default  -> System.out.println("Операция не распознана");
             }
         System.out.printf("\n%s %s %s = %s", a, s, b, result);
-
     }
 }

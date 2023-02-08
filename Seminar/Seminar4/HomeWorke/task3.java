@@ -14,9 +14,7 @@ public class task3 {
         Scanner input = new Scanner(System.in);
         String x = "yes";
         int a = 1;
-
         while (!x.equals("no")) {
-
             if (x.equals("cancel")) {
                 result.remove(0);
                 System.out.print("Желаете продолжить (yes/no/sansel): ");
