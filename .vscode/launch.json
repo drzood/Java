@@ -1,0 +1,462 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Worker$dz",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.HomeWorke.Worker$dz",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Worker",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.Test.Worker",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.Test.test",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch worker",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.Test.worker",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.HomeWorke.Main",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch worker",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.worker",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar6.task",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001_Program",
+            "request": "launch",
+            "mainClass": "Lesson_06.part2.Ex001_Program",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar5.HomeWorke.task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar5.HomeWorke.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar5.HomeWorke.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar5.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar5.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Seminar.test",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch L4",
+            "request": "launch",
+            "mainClass": "L4",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002_fileSystemDemo",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture2.Lesson_02.Ex002_fileSystemDemo",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003_tryDemo",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture2.Lesson_02.Ex003_tryDemo",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex004_bFile",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture2.Lesson_02.Ex004_bFile",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex005_Logger",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture2.Lesson_02.Ex005_Logger",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch lecture",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture2.lecture",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex000",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex000",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex001",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex002",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex003",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex004",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex004",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex005",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex005",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex006",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex006",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex007",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.Lesson_03.Ex007",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3",
+            "request": "launch",
+            "mainClass": "Lecture.Lecture3.l3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex000(1)",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex000",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001(1)",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex001",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002(1)",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex002",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003(1)",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex003",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex004(1)",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex004",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex005(1)",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex005",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch j1",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.HomeWorke.j1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch j2",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.HomeWorke.j2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch j3",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.HomeWorke.j3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch j4",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.HomeWorke.j4",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task1",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.Task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task2",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.Task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task3",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.Task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task4",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar1.Task4",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.HomeWork.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.HomeWork.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.HomeWork.task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task4",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.HomeWork.task4",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task3(1)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.Task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.task",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2(1)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar2.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1(1)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar3.HomeWorke.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2(2)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar3.HomeWorke.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3(1)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar3.HomeWorke.task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1(2)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar3.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2(3)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar3.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3(2)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar3.task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1(3)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar4.HomeWorke.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2(4)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar4.HomeWorke.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3(3)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar4.HomeWorke.task3",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1(4)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar4.task1",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task2(5)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar4.task2",
+            "projectName": "Java_3313f847"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3(4)",
+            "request": "launch",
+            "mainClass": "Seminar.Seminar4.task3",
+            "projectName": "Java_3313f847"
+        }
+    ]
+}
